@@ -1,2 +1,0 @@
-# Rentuaya
-LT3
