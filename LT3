@@ -10,6 +10,7 @@
             border: 2px solid #3c3c3c;
             float: left;
             margin: 10px;
+            box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.3);
         }
 
         body {
@@ -34,68 +35,81 @@
             height: 100px;
         }
 
+        h1 {
+            text-align: center;
+            text-shadow:3px 3px 5px #d97676;
+
+        }
+        h4 {
+            text-align: center;
+        }
+        
+
+
+
     </style>
 </head>
 
 <body>
+    
     <h1><b>My Top 10 Favorite Food</b></h1>
    
     <div>
-        &nbspTop 1: <b>Teriyaki Chicken</b> <br><br>
+        <h4>&nbspTop 1: <b>Teriyaki Chicken</b></h4> <br>
         <img src="teriyaki.jpg">
         <br> <p>It is a chicken that could be grilled or fried and is marinted with teriyaki sauce. </p>
     </div>
 
     <div>
-        &nbspTop 2: <b>Bacon</b> <br><br>
+        <h4>&nbspTop 2: <b>Bacon</b></h4> <br>
         <img src="bacon.jpg">
         <br> <p>It is a thin sliced pork that is marinated and fried to crisp.</p>
     </div>
   
     <div>
-        &nbspTop 3: <b>Tocino</b> <br><br>
+        <h4>&nbspTop 3: <b>Tocino</b></h4> <br>
         <img src="tocino.jpg">
         <br> <p>It is a small chopped meat that is sweetened and fried. </p>
     </div>
 
     <div>
-        &nbspTop 4: <b>French Fries</b> <br><br>
+        <h4>&nbspTop 4: <b>French Fries</b></h4> <br>
         <img src="french.jpg">
         <br> <p>It is a potato that is sliced into strips and then deep fried. </p>
     </div>
 
     <div>
-        &nbspTop 5: <b>Pizza</b> <br><br>
+        <h4>&nbspTop 5: <b>Pizza</b></h4> <br>
         <img src="pizza.jpg">
         <br> <p>It is a flat bread that is covered with tomato sauce and cheese and could add toppings. </p>
     </div>
-
+<br>
     <div>
-        &nbspTop 6: <b>Sinigang</b> <br><br>
+        <h4>&nbspTop 6: <b>Sinigang</b> </h4><br>
         <img src="sinigang.jpg">
         <br> <p>It is a sour and savory soup that is good for lunch and dinner. </p>
     </div>
 
     <div>
-        &nbspTop 7: <b>Burger</b> <br><br>
+        <h4>&nbspTop 7: <b>Burger</b> </h4><br>
         <img src="burger.jpg">
         <br> <p>It is a ground beef that is turned into a patty then put in the middle of a bread and could be added with various ingredients. </p>
     </div>
-<br>
+
     <div>
-        &nbspTop 8: <b>Rice</b> <br><br>
+        <h4>&nbspTop 8: <b>Rice</b></h4> <br>
         <img src="rice.jpg">
         <br> <p>It is a starch that is important to every pinoy meal. </p>
     </div>
 
     <div>
-        &nbspTop 9: <b>Chicken tenders</b> <br><br>
+        <h4>&nbspTop 9: <b>Chicken tenders</b></h4> <br>
         <img src="tenders.jpg">
         <br> <p>It is a chicken that is sliced into strips, and then battered and deep fried. </p>
     </div>
 
     <div>
-        &nbspTop 10: <b>Barbecue</b> <br><br>
+        <h4>&nbspTop 10: <b>Barbecue</b></h4> <br>
         <img src="bbq.jpg">
         <br> <p>It is a meat that is marinated and grilled. </p>
     </div>
